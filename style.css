@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #111;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+article {
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+}
